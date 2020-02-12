@@ -10,7 +10,6 @@ itsdangerous==1.1.0
 Jinja2==2.11.1
 MarkupSafe==1.1.1
 multidict==4.7.4
-object-detection==0.1
 pyaes==1.6.1
 pyasn1==0.4.8
 rsa==4.0
